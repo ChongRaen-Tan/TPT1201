@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Problem solved}{1}
+\contentsline {section}{\numberline {2}Related work / Prior research}{1}
+\contentsline {section}{\numberline {3}Methodology}{2}
+\contentsline {section}{\numberline {4}Claimed contributions}{2}
+\contentsline {section}{\numberline {5}Conclusion}{3}
+\contentsline {section}{\numberline {6}Possible extension / Future work}{3}
+\contentsline {section}{References}{3}

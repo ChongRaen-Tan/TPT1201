@@ -1,0 +1,56 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Simoudis%
+}{%
+Simoudis%
+}{%
+{\protect \APACyear {1996}}%
+}]{%
+SimoudisE1996}
+\APACinsertmetastar {%
+SimoudisE1996}%
+\begin{APACrefauthors}%
+Simoudis, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1996}{October}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Reality Check for Data Mining} {Reality check for data
+  mining}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{}{}{}{26-33}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/64.539014} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zafarani%
+, Abbasi%
+\BCBL {}\ \BBA {} Liu%
+}{%
+Zafarani%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+smm2014}
+\APACinsertmetastar {%
+smm2014}%
+\begin{APACrefauthors}%
+Zafarani, R.%
+, Abbasi, M\BPBI A.%
+\BCBL {}\ \BBA {} Liu, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{April}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Social Media Mining} {Social media mining}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{}{}{}{15-16}.
+\newblock
+\begin{APACrefURL} \url{http://dmml.asu.edu/smm/SMM.pdf} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
