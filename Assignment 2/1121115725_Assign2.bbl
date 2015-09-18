@@ -1,0 +1,150 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Agarwal%
+, Xie%
+, Vovsha%
+, wen Rambow%
+\BCBL {}\ \BBA {} Passonneau%
+}{%
+Agarwal%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+SentAnaly2011}
+\APACinsertmetastar {%
+SentAnaly2011}%
+\begin{APACrefauthors}%
+Agarwal, A.%
+, Xie, B.%
+, Vovsha, I.%
+, wen Rambow%
+\BCBL {}\ \BBA {} Passonneau, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Sentiment analysis of twitter data} {Sentiment analysis
+  of twitter data}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{}{}{}{30–38}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ding%
+, Liu%
+\BCBL {}\ \BBA {} Yu%
+}{%
+Ding%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2008}}%
+}]{%
+XBP2008}
+\APACinsertmetastar {%
+XBP2008}%
+\begin{APACrefauthors}%
+Ding, X.%
+, Liu, B.%
+\BCBL {}\ \BBA {} Yu, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A holistic lexicon-based approach to opinion mining} {A
+  holistic lexicon-based approach to opinion mining}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{}{}{}{231-240}.
+\newblock
+\begin{APACrefDOI} \doi{10.1145/1341531.1341561} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dumais%
+, Platt%
+, Heckerman%
+\BCBL {}\ \BBA {} Sahami%
+}{%
+Dumais%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1998}}%
+}]{%
+Susan1998}
+\APACinsertmetastar {%
+Susan1998}%
+\begin{APACrefauthors}%
+Dumais, S.%
+, Platt, J.%
+, Heckerman, D.%
+\BCBL {}\ \BBA {} Sahami, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1998}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Inductive Learning Algorithms and Representations for
+  Text Categorization} {Inductive learning algorithms and representations for
+  text categorization}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{}{}{}{148-155}.
+\newblock
+\begin{APACrefDOI} \doi{10.1145/288627.288651} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Pak%
+\ \BBA {} Paroubek%
+}{%
+Pak%
+\ \BBA {} Paroubek%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+APPP2010}
+\APACinsertmetastar {%
+APPP2010}%
+\begin{APACrefauthors}%
+Pak, A.%
+\BCBT {}\ \BBA {} Paroubek, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{April}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Twitter as a corpus for sentiment analysis and opinion
+  mining} {Twitter as a corpus for sentiment analysis and opinion
+  mining}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{}{}{}{1320-1326}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Pang%
+, Lee%
+\BCBL {}\ \BBA {} Vaithyanathan%
+}{%
+Pang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2002}}%
+}]{%
+Pang2002}
+\APACinsertmetastar {%
+Pang2002}%
+\begin{APACrefauthors}%
+Pang, B.%
+, Lee, L.%
+\BCBL {}\ \BBA {} Vaithyanathan, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Thumbs up? : Sentiment classification using machine
+  learning techniques.} {Thumbs up? : Sentiment classification using machine
+  learning techniques.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{}{}{}{79–86}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

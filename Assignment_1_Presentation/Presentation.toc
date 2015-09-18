@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Introduction and Problem statement}{2}{0}{1}
+\beamer@sectionintoc {2}{Research method}{3}{0}{2}
+\beamer@sectionintoc {3}{Critical literature review}{4}{0}{3}
+\beamer@sectionintoc {4}{Conclusion}{5}{0}{4}
+\beamer@sectionintoc {5}{What did we learn? Possible extension or Future work?}{6}{0}{5}
